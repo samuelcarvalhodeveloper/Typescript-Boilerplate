@@ -20,6 +20,10 @@ body {
   outline: 0.3rem solid #007bff;
 }
 
+:active {
+  outline: none;
+}
+
 .section {
   width: 100vw;
   height: 100vh;
