@@ -1,5 +1,5 @@
 <h1 align="center">
-Pokédex w React Js/ Next Js and Typescript</h1>
+Typescript BoilerPlate</h1>
 
 <br />
 
@@ -16,7 +16,7 @@ Pokédex w React Js/ Next Js and Typescript</h1>
 
 <h3 id="description">✍️ Description:</h3>
 
-<p>This project was made with the latest technologies using Next Js (v13).The biggest trump of Next Js is that,out of the box, offers Server-Side-Rendering with Static-Site-Generation,which gives us much more velocity and stability as public project - even i made as an educational project; This is a really robust project for to study. Have Fun!</p>
+<p>Some times I need a quick project start up. To make this real I decided to create a fast Typescript BoilerPlate to just programme,when this is all you want</p>
 
 <br />
 
