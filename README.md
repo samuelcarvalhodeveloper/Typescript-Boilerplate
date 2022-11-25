@@ -22,7 +22,7 @@ Typescript BoilerPlate</h1>
 
 <h3 id="install">🔍  Install:</h3>
 
-<p>To create this project I have used React, but as long as I stated with npm, I think you are going to have problems to use with yarn.The best tip gave to you as a beginner is use npm or migrate to yarn, if all you want is just try - use npm:<p>
+<p>To create this Boilerplate, I used NPM.If you are using Yarn, I recommend to migrate this dependencies.<p>
 
 **To install the package:**
 
