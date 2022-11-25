@@ -31,7 +31,7 @@ Typescript BoilerPlate</h1>
 
 **To run correct script:**
 
-<p>To run this project, all you need to do is run the index.html, in public folder. I personally recommend to use LiveServer extension of VS Code</p>
+<p>To run this project, all you need to do is run the index.html, in public folder. I personally recommend to use LiveServer extension of VS Code.</p>
 
 <br />
 
